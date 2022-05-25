@@ -9,4 +9,3 @@
 ![](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
 ![](https://visitor-badge.glitch.me/badge?page_id=sun0225SUN)
 [![SerMs GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ser-MingShao&theme=xcode)](https://github.com/Ser-MingShao)
-![](https://stats.justsong.cn/api/csdn?id=weixin_50915462)
